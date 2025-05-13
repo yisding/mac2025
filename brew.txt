@@ -1,0 +1,8 @@
+font-noto-sans-mono-cjk-sc
+font-geist-mono-nerd-font
+google-cloud-sdk
+jdownloader
+tmux
+pipx
+curl
+tree-sitter
